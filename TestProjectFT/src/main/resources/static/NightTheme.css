@@ -1,0 +1,143 @@
+body {
+    background-color: #0f172a;
+    color: #e2e8f0;
+    font-family: "Inter", sans-serif;
+}
+
+.navbar {
+    background-color: #0b1120 !important;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.navbar-brand {
+    color: #93c5fd !important;
+    font-weight: bold;
+}
+
+.navbar .btn-outline-light {
+    border-color: #475569;
+    color: #e2e8f0;
+}
+
+.navbar .btn-outline-light:hover {
+    background-color: #1e293b;
+    color: #fff;
+}
+
+.btn-outline-light:hover {
+    border-color: #93c5fd;
+    background-color: rgba(148,163,184,0.2);
+}
+
+.btn-primary {
+    background-color: #4f46e5 !important;
+    border-color: #4f46e5 !important;
+}
+
+.btn-primary:hover {
+    background-color: #4338ca !important;
+}
+
+.btn-secondary {
+    background-color: #14b8a6 !important;
+    border-color: #14b8a6 !important;
+}
+
+.btn-secondary:hover {
+    background-color: #0d9488 !important;
+}
+
+.card {
+    background-color: #1e293b !important;
+    color: #e2e8f0 !important;
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 14px;
+}
+
+.card-header {
+    background-color: #334155 !important;
+    color: #f1f5f9 !important;
+}
+
+.card .card-body {
+    color: #f1f5f9 !important;
+}
+
+.card .text-muted {
+    color: #f1f5f9 !important;
+}
+
+.card-body.text-muted {
+    color: #f1f5f9 !important;
+}
+
+.table {
+    color: #e2e8f0;
+}
+
+.table thead {
+    background-color: #334155;
+}
+
+.table tbody tr {
+    background-color: #1e293b;
+    border-color: #475569;
+}
+
+.table tbody tr:hover {
+    background-color: #243044;
+}
+
+.alert-info {
+    background-color: rgba(59,130,246,0.2);
+    color: #bfdbfe;
+    border: 1px solid rgba(59,130,246,0.4);
+}
+
+.alert-danger {
+    background-color: rgba(239,68,68,0.15);
+    color: #fecaca;
+    border: 1px solid rgba(239,68,68,0.3);
+}
+
+.alert-secondary {
+    background-color: #334155 !important;
+    color: #f1f5f9 !important;
+    border: 1px solid #475569 !important;
+}
+
+.form-select {
+    background-color: #1e293b;
+    color: #e2e8f0;
+    border: 1px solid #475569;
+}
+
+.form-select:focus {
+    border-color: #6366f1;
+    box-shadow: 0 0 0 0.2rem rgba(99,102,241,0.4);
+}
+
+.form-control,
+textarea {
+    background-color: #1e293b !important;
+    border: 1px solid #475569 !important;
+    color: #e2e8f0 !important;
+}
+
+.form-control:focus,
+textarea:focus {
+    border-color: #6366f1 !important;
+    box-shadow: 0 0 0 .2rem rgba(99,102,241,0.4) !important;
+}
+
+.badge.bg-info {
+    background-color: #0ea5e9 !important;
+}
+
+a {
+    color: #93c5fd;
+}
+
+a:hover {
+    color: #bfdbfe;
+}
